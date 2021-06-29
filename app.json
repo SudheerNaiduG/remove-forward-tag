@@ -1,0 +1,14 @@
+{
+    "name": "This is Telegram Forward Tag remoer Bot by @thomas_sshelby",
+    "description": "This is Telegram Messages Forward tag remover bot in Pyrogram by @thomas_sshelby",
+    "keywords": [
+        "telegram",
+        "messages",
+        "forwarder"
+        
+    ],
+    "repository": "https://github.com/th0m45s5helby/remove-forward-tag/",
+    "website": "https://telegram.dog/nothing",
+    "success_url": "https://t.me/nothing"
+
+}
